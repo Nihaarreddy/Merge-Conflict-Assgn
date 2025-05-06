@@ -1,9 +1,12 @@
 ## ASSIGNMENT-3:
    ##  Branching Strategies & Merge Conflicts 
 
-**Task 1: Link to Github Repository**
+## Task 1: Link to Github Repository
+
 Github: https://github.com/Nihaarreddy/Merge-Conflict-Assgn
-**Task 2: Screenshots showing the merge conflict and resolution process**
+
+## Task 2: Screenshots showing the merge conflict and resolution process
+
 **1) Request of Pull Request for feature/add-content branch:**
 ![Screenshot 2025-05-06 134754](https://github.com/user-attachments/assets/b8a3f7b4-2540-404c-8065-18fc975cd9a0)
 **2) Request of Pull REquests for both branches feature/add-content and feature/update/styling:**
@@ -20,6 +23,7 @@ Github: https://github.com/Nihaarreddy/Merge-Conflict-Assgn
 ![Screenshot 2025-05-06 135438](https://github.com/user-attachments/assets/a22642ed-43fd-49ad-ba6b-f590e806e201)
 **8) Successful Merging of both Pull Requests**
 ![Screenshot 2025-05-06 135323](https://github.com/user-attachments/assets/d240f93a-e6bf-41db-ad1a-d29182f73a3d)
+## Task3
 Explanation on how merge conflicts are resolved:
 Conflict Resolution Steps:
 Identifing the Conflict: Git alerts you during the merge process.
