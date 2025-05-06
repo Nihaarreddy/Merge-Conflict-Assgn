@@ -37,3 +37,14 @@ Marking as Resolved: Use git add index.html after editing.
 Committing the Resolution: Run git commit -m "Resolved merge conflict in index.html".
 
 Pushing the Changes: Use git push origin main to update the remote repository.
+
+
+
+## Assignment - 4:
+About Husky:
+Git Hooks are the scripts which automatically runs before or after certain git events like commit, push, merge, etc.
+Husky manages all these Git Hooks in a project.
+Husky enables developers to automate different scripts whenever any events occur by making them as git hooks.
+To use Husky, we need to use the command:
+npx husky install
+
